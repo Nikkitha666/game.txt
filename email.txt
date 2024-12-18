@@ -1,0 +1,9 @@
+import react from 'react';
+const app=() =>{
+return(
+<div>
+<h1>hello</h1>
+</div>
+);
+};
+export defult app;
